@@ -13,6 +13,6 @@
 <h4>About the approach.</h4>
 
 <ul>
-<li>Used TF-IDF and Bag of Words for extracting featues from the headlines.
-<li>Used Random Forest Classifier(BoW), Random Forest Classifier(TF-IDF), Naive Bayes(TF-IDF) & Naive Bayes(BoW) for analysis.
+<li>Use TF-IDF and Bag of Words for extracting featues from the headlines.
+<li>Use Random Forest Classifier(BoW), Random Forest Classifier(TF-IDF), Naive Bayes(TF-IDF) & Naive Bayes(BoW) for analysis.
 </ul>
